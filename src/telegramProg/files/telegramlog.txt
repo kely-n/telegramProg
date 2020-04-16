@@ -1,0 +1,1 @@
+[{"chatID":"@klynart","botKey":"962217652:AAGsSCM_UMv3e1JeBi4OZpV-9ahjAQx38dA","channelName":"testing work"}]
